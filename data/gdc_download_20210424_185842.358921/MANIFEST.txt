@@ -1,0 +1,2 @@
+id	filename	md5	size	state
+85d8d46e-5206-4c07-95e0-56b22c013321	85d8d46e-5206-4c07-95e0-56b22c013321/jhu-usc.edu_BRCA.HumanMethylation450.5.lvl-3.TCGA-A2-A0YK-01A-22D-A10A-05.txt	993453bd47012b2305215f27b0232d6c	21275406	validated
